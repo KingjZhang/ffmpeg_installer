@@ -188,6 +188,7 @@ PATH="$bindir:$PATH" PKG_CONFIG_PATH="$ffmpeg_build/lib/pkgconfig" ./configure \
   --enable-gpl \
   --enable-libass \
   --enable-libfdk-aac \
+  --enable-nvenc \
   --enable-libfreetype \
   --enable-libmp3lame \
   --enable-libopus \
